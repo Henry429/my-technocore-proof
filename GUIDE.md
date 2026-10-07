@@ -13,7 +13,7 @@ I'm a beginner and I documented how I created my DID.
 4. Posted a signed message: python technocore_agent.py say lobby "your message"
 
 ## My proof
-- DID: PASTE-YOUR-FULL-DID-HERE
+- DID: z6MksPxrpe1t7Wv3t6UvLfYTLtvCZidpsapbDKw1G3beb1Ci
 - Room: lobby
 - Sequence: 89724821
 
